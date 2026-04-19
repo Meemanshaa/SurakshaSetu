@@ -1,23 +1,22 @@
 # 🚀 SurakshaSetu (सुरक्षा सेतु)
 
 > “A smart bridge that protects gig workers’ income during disruptions.”
-> Building a safety net for gig workers with AI-driven income protection and automatic payouts.
+> An AI-powered safety net ensuring stable earnings for gig workers through predictive protection and automated payouts.
 
 ---
 
 ## 📌 Problem Statement
 
-Delivery partners working with platforms like Swiggy and Zomato are a key part of India’s gig economy.
+Delivery partners working with platforms like Swiggy and Zomato form a crucial part of India’s gig economy.
 
-However, external factors such as:
+However, external conditions such as:
+🌧️ Heavy rainfall
+☀️ Extreme heat
+🌫️ High pollution
 
-* 🌧️ Heavy rain
-* ☀️ Extreme heat
-* 🌫️ High pollution
+Often reduce working hours, causing 20–30% income loss weekly.
 
-can reduce their working hours and cause **20–30% income loss per week**.
-
-👉 Currently, there is **no reliable income protection system** for such situations.
+❗ Currently, there is no structured or reliable income protection system for such disruptions.
 
 ---
 
@@ -25,30 +24,28 @@ can reduce their working hours and cause **20–30% income loss per week**.
 
 **SurakshaSetu** is an AI-powered parametric insurance platform that:
 
-* Predicts disruptions before they happen
-* Protects workers during risky shifts
-* Automatically detects income loss
-* Instantly provides compensation
-
-👉 It is not just insurance — it is a **smart protection system for gig workers**
+*Predicts disruptions before they occur
+*Provides pre-shift risk alerts
+*Monitors real-time activity and environment
+*Detects income loss automatically
+*Triggers instant compensation payouts
+💭 Not just insurance — a **smart, real-time protection system for gig workers**
 
 ---
 
 ## 👤 Target Persona
 
-We focus on **food delivery partners**.
+We primarily focus on food delivery partners.
 
-### Example:
+📍 Example Scenario
+Ravi, a delivery partner, earns ₹6000–₹7000/week.
+During heavy rain:
+Orders decline sharply
+He ends shifts early
+Loses ₹600–₹900 in a single day
 
-Ravi is a delivery partner earning ₹6000–₹7000 per week.
+👉 SurakshaSetu ensures income stability during such disruptions
 
-During heavy rainfall:
-
-* Orders drop significantly
-* He stops working early
-* He loses ₹600–₹900 in a single shift
-
-👉 SurakshaSetu ensures he does not bear this loss alone.
 
 ---
 
@@ -56,11 +53,11 @@ During heavy rainfall:
 
 1. User signs up
 2. Activates weekly policy
-3. Receives pre-shift risk alerts
-4. System monitors activity + environment
-5. Detects disruption
-6. Verifies income loss (Income Oracle)
-7. Sends instant payout
+3. Receives AI-based risk alerts
+4. System tracks activity + environmental data
+5. Disruption is detected
+6. Income loss is verified (Income Oracle)
+7. Instant payout is processedUser signs up
 
 ---
 
@@ -94,8 +91,8 @@ Weekly Premium = Base + Weather Risk + City Risk - Reliability Discount
 
 ## 💸 Payout Logic
 
-* Expected income vs Actual income
-* Coverage: 30–40% of loss
+* Based on **Expected vs Actual Income**
+* Coverage: 30–40% of income loss
 
 👉 Example:
 Loss = ₹500 → Payout = ₹150–₹200
@@ -104,18 +101,18 @@ Loss = ₹500 → Payout = ₹150–₹200
 
 ## 🤖 AI/ML Integration
 
-* Risk Prediction (weather + demand patterns)
-* Dynamic Pricing
-* Fraud Detection
+* Risk Prediction (weather + demand trends)
+* Dynamic Pricing Model
+* Fraud Detection System
 * Income Oracle (core engine)
 
 ---
 
 ## 🛡️ Fraud Detection System
 
-SurakshaSetu includes a **multi-layered fraud defense system**:
+**Multi-layered protection ensures fair usage**:
 
-* GPS + movement validation
+* GPS & movement validation
 * Device & behavior tracking
 * Order pattern analysis
 * Network anomaly detection
@@ -132,10 +129,8 @@ SurakshaSetu/
 ├── backend/              # Node.js + Express API
 ├── ml-service/           # Python ML microservice
 ├── suraksha-frontend/    # Main frontend (FINAL UI)
-├── old-frontend/         # Deprecated (not used)
 ```
 
-> ⚠️ Use `suraksha-frontend` for running the project
 
 ---
 
@@ -169,18 +164,10 @@ npm run dev
 
 ## 🎥 Demo Video
 
-📽️ Screen-capture walkthrough showing:
-
-* Login & dashboard
-* AI-based claim trigger
-* Automated payout
-
 👉 **Watch here:** *https://drive.google.com/file/d/11dSYNmncX_Wgyjsn4w9ig06Sv30eoEyb/view?usp=drivesdk*
 ---
 
 ## 📊 Pitch Deck
-
-📄 Project presentation (PPT/PDF):
 
 👉 View Pitch Deck:  *https://drive.google.com/file/d/1VrITkVXX37-4_9Xj0ZP_xJKdg15xC41N/view?usp=sharing*
 
@@ -195,19 +182,17 @@ npm run dev
 
 ---
 
-## 🌟 USP
+## 🌟 Unique Selling Points
 
 * Income-focused insurance
 * Instant automated payouts
 * AI-driven decision making
-* Strong anti-fraud system
+* Advanced fraud detection
 
 ---
 
 ## 🎯 Vision
 
-Build a system where:
-
-> **No delivery worker loses income due to external disruptions**
+> **A future no gig worker loses income due to external disruptions**
 
 ---
