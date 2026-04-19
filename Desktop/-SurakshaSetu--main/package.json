@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3"
+  },
+  "name": "-surakshasetu--main",
+  "version": "1.0.0",
+  "description": "> “A smart bridge that protects gig workers’ income during disruptions.” > Building a safety net for gig workers with AI-driven income protection and automatic payouts.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
